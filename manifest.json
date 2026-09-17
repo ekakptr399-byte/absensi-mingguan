@@ -1,0 +1,9 @@
+{
+  "name": "Absensi Mingguan",
+  "short_name": "Absensi",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#222222",
+  "description": "Aplikasi absensi mingguan"
+}
